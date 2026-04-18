@@ -373,12 +373,15 @@ Der Gesamtprozess lässt sich in acht Stufen gliedern:
 
 Der Prozess beginnt mit einer **Abweichungsdiagnose**. Der Controller stellt fest, dass die tatsächliche Entwicklung des Aktienkurses hinter der erwarteten Entwicklung zurückbleibt. Damit liegt eine Soll-Ist-Diskrepanz vor. Diese Diskrepanz fungiert als initiales Problemsignal.
 
+![10](/Pics/10.png)
+
 ### Stufe 2: Informationsauslösung
 
 Die bloße Feststellung einer Abweichung reicht noch nicht aus, um eine strukturelle Maßnahme zu legitimieren. Deshalb löst der Controller eine **Informationsbeschaffung** aus. Diese erfolgt in Form eines aktuellen Quartalsberichts.
 
 ### Stufe 3: Informationsproduktion
 
+![11](/Pics/11.png)
 Der Quartalsbericht wird durch eine Kombination aus menschlicher Bedienung und KI-gestützter Textproduktion erzeugt. Der Mitarbeiter ist nicht mehr primär Autor des Berichts, sondern Operateur des Berichtssystems. Der Output dieser Stufe ist eine verdichtete betriebswirtschaftliche Lageinformation.
 
 ### Stufe 4: Strategische Deutung
