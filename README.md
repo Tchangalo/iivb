@@ -241,7 +241,7 @@ Damit beginnt ein typischer ökonomischer Anpassungsprozess. Eine Organisation r
 
 ### 2 Die erste Stufe: Wahrnehmung der Zielabweichung
 
-![01](Stufe01.png)
+![01](/Pics/Stufe01.png)
 
 Der erste relevante Akteur in diesem Prozess ist der Controller. Seine Funktion besteht darin, wirtschaftliche Abweichungen sichtbar zu machen, zu quantifizieren und an die Entscheidungsebene weiterzugeben. Er beobachtet, dass die Kapitalmarktperformance der Bank nicht den Erwartungen entspricht. Damit identifiziert er nicht nur ein isoliertes Faktum, sondern ein wirtschaftliches Problem, das Handlungsbedarf signalisiert.
 
@@ -249,19 +249,19 @@ Wichtig ist hierbei eine präzisere finanzwissenschaftliche Einordnung: Der Akti
 
 ### 3 Die zweite Stufe: Informationsbeschaffung durch Berichtserstellung
 
-![02](Stufe02.png)
+![02](/Pics/Stufe02.png)
 
 Auf die erkannte Abweichung reagiert der Controller mit einer Informationsanforderung. Er veranlasst die Erstellung eines aktuellen Quartalsberichts, obwohl das laufende Quartal noch nicht abgeschlossen ist. Ökonomisch betrachtet dient dieser Schritt der Verdichtung und Strukturierung relevanter Unternehmensdaten. Die Organisation versucht damit, aus einer zunächst nur symptomatisch wahrgenommenen Störung ein analysierbares Entscheidungsproblem zu machen.
 
 In dem hier beschriebenen Szenario erfolgt die Erstellung des Berichts nicht mehr ausschließlich durch menschliche Sachbearbeitung, sondern unter Einsatz künstlicher Intelligenz. Genauer gesagt wird eine Prompt-Pipelining Struktur verwendet, in der Sprachmodelle und Agenten arbeitsteilig den Bericht erzeugen. Der zuständige Mitarbeiter übernimmt dabei nicht mehr primär die originäre Textproduktion, sondern die Steuerung, Kontrolle und Bedienung der KI-gestützten Berichtserstellung. Das ist ökonomisch bedeutsam, weil sich hier bereits ein Strukturwandel der Arbeit zeigt: Menschliche Tätigkeit verschiebt sich von direkter Produktion zu Überwachung, Parametrisierung und Freigabe algorithmischer Systeme.
 
-![02a](Schaubild_Prompt_Pipelining.png)
+![02a](/Pics/Schaubild_Prompt_Pipelining.png)
 
 Der fertige Bericht wird anschließend dem Controller vorgelegt, der ihn seinerseits an die strategische Leitungsebene weitergibt.
 
 ### 4 Die dritte Stufe: Interpretation durch die Entscheidungsebene
 
-![03](Stufe03.png)
+![03](/Pics/Stufe03.png)
 
 Der Controller leitet den Bericht an den CEO und an den Aufsichtsrat weiter. Im Szenario wird also unterstellt, dass die strategische Reaktionsrichtung von beiden Ebenen gemeinsam beraten beziehungsweise gebilligt wird. Inhaltlich erfüllt der Bericht die Funktion, aus einer bloßen Kursbeobachtung eine wirtschaftlich interpretierbare Lageanalyse zu machen.
 
@@ -271,7 +271,7 @@ Hier zeigt sich der Übergang von der Diagnose zur Hypothesenbildung. Der beobac
 
 ### 5 Die vierte Stufe: Entwicklung von Handlungsoptionen
 
-![04](Stufe04.png)
+![04](/Pics/Stufe04.png)
 
 Auf Grundlage der neuen Informationen werden mehrere mögliche Maßnahmen erwogen. Dieser Schritt ist entscheidungstheoretisch zentral. Die Organisation springt nicht unmittelbar von der Problemerkennung zur endgültigen Handlung, sondern entwickelt zunächst einen Raum möglicher Interventionen.
 
@@ -281,7 +281,7 @@ Die Bank beschließt, ihre Filialzahl deutlich zu reduzieren, etwa um 25 Prozent
 
 ### 6 Die fünfte Stufe: Der ökonomische Wirkungsmechanismus
 
-![05](Stufe05.png)
+![05](/Pics/Stufe05.png)
 
 Didaktisch besonders wichtig ist nun die Frage, warum diese Maßnahme aus Sicht der Entscheidungsträger überhaupt geeignet erscheint, den Aktienkurs zu stabilisieren oder zu steigern.
 
@@ -293,15 +293,15 @@ Der eigentliche Kausalzusammenhang lautet also nicht schlicht: Einsparung führt
 
 ### 7 Die sechste Stufe: Zielkonflikte und Nebenfolgen
 
-![06](Stufe06.png)
+![06](/Pics/Stufe06.png)
 
 Jede ökonomische Strukturentscheidung dieser Art ist mit Nebenfolgen verbunden. Aus mikroökonomischer Perspektive verbessert die Bank möglicherweise ihre Effizienz. Aus sozialökonomischer Perspektive entstehen jedoch Kosten, die nicht notwendigerweise in derselben Weise in der Unternehmensrechnung erscheinen. Dazu gehören Arbeitsplatzverluste, längere Wege für Kunden, geringere persönliche Beratung und eine mögliche Benachteiligung jener Kundengruppen, die digitale Angebote nur eingeschränkt nutzen können.
 
 Damit liegt ein klassischer Zielkonflikt vor. Auf der einen Seite steht das Ziel der Steigerung von Rentabilität, Effizienz und Kapitalmarktbewertung. Auf der anderen Seite stehen soziale, regionale und beschäftigungspolitische Folgen. Die Entscheidung der Leitungsebene besteht somit nicht nur in einer betriebswirtschaftlichen Optimierung, sondern in einer Abwägung zwischen unternehmensbezogenen Zielgrößen und externen Nebenwirkungen.
 
-![07](Stufe07.png)
+![07](/Pics/Stufe07.png)
 
-![08](Stufe08.png)
+![08](/Pics/Stufe08.png)
 
 ### 8 Der Gesamtprozess
 
