@@ -994,6 +994,7 @@ Je größer bei einer kapitalmarktorientierten Bank die Soll-Ist-Diskrepanz $D_t
 
 #### Inhalt
 **Zusammenfassung**
+
 **1 Einleitung**  
 1.1 Das Problem der naturwissenschaftlichen Bewusstseinsforschung  
 1.2 Der Zugang der Integrated Information Theory  
