@@ -199,7 +199,7 @@
     27.7 **7 Das Bankbeispiel als konkreter sozialer Handlungsrahmen**  
     27.8 **8 Prompt-Pipelining als operative Kopplung von Wissensmodul und Handlungsrahmen**  
     27.9 **9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell**  
-    27.10 **10 Schlussformel des Epilogs**
+    27.10 **10 Schlussformel**
     XY. Einbettung router- und client-basierter Bewusstseinssysteme in soziale Ist-Soll-Strukturen und externe Handlungskontexte
     XY. Theorierückbindung und hypothesengeleitete Selbstprüfung als zwei Grundprinzipien des Prompt-Pipelining
     XY. Formale Modellierung der Minimierung von Ist-Soll-Diskrepanzen durch datenbasierte Prüfung von Wenn-Dann-Hypothesen
