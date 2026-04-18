@@ -389,7 +389,11 @@ Der Quartalsbericht wird durch eine Kombination aus menschlicher Bedienung und K
 
 ![12](/Pics/12.png)
 
-![14](/Pics/13.png)
+![13](/Pics/13.png)
+
+![14](/Pics/14.png)
+
+![15](/Pics/15.png)
 
 CEO und Aufsichtsrat interpretieren den Bericht nicht bloß deskriptiv, sondern hypothesenbildend. Sie deuten die Daten vor dem Hintergrund eines Markttrends, nämlich der zunehmenden Digitalisierung des Bankgeschäfts. Daraus entsteht die Annahme, dass die bestehende Filialstruktur teilweise überdimensioniert ist.
 
@@ -444,6 +448,10 @@ Man kann das Modell auch als vier Ebenen ordnen:
 |**Analyseebene**|Quartalsbericht wird angefordert und erstellt|
 |**Entscheidungsebene**|CEO und Aufsichtsrat bilden Hypothesen und wählen eine Maßnahme|
 |**Wirkungsebene**|Kostenstruktur verändert sich, Kapitalmarkt bewertet die Bank neu|
+
+![16](/Pics/16.png)
+
+![17](/Pics/17.png)
 
 ## Formalisiertes Schema des Bankprozesses
 
