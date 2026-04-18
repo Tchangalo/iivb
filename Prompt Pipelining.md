@@ -22,7 +22,7 @@
     
 # 1. Gesamtbeschreibung der Illustration
 
-![Prompt Pipelining im Überblick](Schaubild_Prompt_Pipelining.png)
+![Prompt Pipelining im Überblick](/Pics/Schaubild_Prompt_Pipelining.png)
 
 Die Grafik stellt eine mehrstufige Architektur für die Verarbeitung natürlicher Spracheingaben in einem KI-gestützten Assistenzsystem dar. Visualisiert wird der vollständige Weg von der ursprünglichen Benutzereingabe über deren sprachliche und semantische Aufbereitung, die kontextbezogene Informationsbeschaffung, die Konstruktion eines geeigneten Prompts sowie die eigentliche Verarbeitung durch ein Large Language Model bis hin zur validierten Endausgabe.
 
