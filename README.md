@@ -3,218 +3,244 @@
 #### Inhalt:
 
 1. **Einleitung**
-    
+
 2. **Zielsetzung**
-    
+
 3. **Die globale Dreiteilung des Gesamtmodells**
-    
-4. **Ein finanzwissenschaftlich und volkswirtschaftlich strukturiertes Entscheidungsszenario**  
-    4.1 **1 Ausgangslage**  
-    4.2 **2 Die erste Stufe: Wahrnehmung der Zielabweichung**  
-    4.3 **3 Die zweite Stufe: Informationsbeschaffung durch Berichtserstellung**  
-    4.4 **4 Die dritte Stufe: Interpretation durch die Entscheidungsebene**  
-    4.5 **5 Die vierte Stufe: Entwicklung von Handlungsoptionen**  
-    4.6 **6 Die fünfte Stufe: Der ökonomische Wirkungsmechanismus**  
-    4.7 **7 Die sechste Stufe: Zielkonflikte und Nebenfolgen**  
-    4.8 **8 Der Gesamtprozess**  
-    4.9 **9 Wissenschaftlich verdichtete Schlussformel**
-    
-5. **Stufenmodell des beschriebenen Bankprozesses**  
-    5.1 **1 Modellzweck**  
-    5.2 **2 Gesamtlogik des Prozesses**  
-    5.3 **3 Das Stufenmodell im Einzelnen**  
-    5.4 **4 Prozesslogik in linearer Form**  
-    5.4.1 **Stufe 1: Problemwahrnehmung**  
-    5.4.2 **Stufe 2: Informationsauslösung**  
-    5.4.3 **Stufe 3: Informationsproduktion**  
-    5.4.4 **Stufe 4: Strategische Deutung**  
-    5.4.5 **Stufe 5: Generierung von Alternativen**  
-    5.4.6 **Stufe 6: Selektionsentscheidung**  
-    5.4.7 **Stufe 7: Implementation**  
-    5.4.8 **Stufe 8: Wirkungsrücklauf**  
-    5.5 **5 Exakte Benennung der Entscheidungsübergänge**  
-    5.6 **6 Kompakte wissenschaftliche Formel des Gesamtvorgangs**  
-    5.7 **7 Analytischer Kernsatz**  
-    5.8 **8 Präziser als Entscheidungskette**
-    
-6. **Formalisiertes Schema des Bankprozesses**  
-    6.1 **1 Symbolische Grundstruktur**  
-    6.2 **2 Erste Entscheidungsstufe: Wahrnehmung der Abweichung**  
-    6.3 **3 Zweite Entscheidungsstufe: Informationsbeschaffung**  
-    6.4 **4 Dritte Entscheidungsstufe: Strategische Hypothesenbildung**  
-    6.5 **5 Vierte Entscheidungsstufe: Bildung des Maßnahmenraums**  
-    6.6 **6 Fünfte Entscheidungsstufe: Bewertung der Maßnahmen**  
-    6.7 **7 Sechste Entscheidungsstufe: Auswahl der Maßnahme**  
-    6.8 **8 Siebte Entscheidungsstufe: Umsetzung der Maßnahme**  
-    6.9 **9 Achte Entscheidungsstufe: Wirkung auf die Kapitalmarkterwartung**  
-    6.10 **10 Das Gesamtschema in kompakter Kettenform**  
-    6.11 **11 Wissenschaftlich verdichtete Wenn-Dann-Version**  
-    6.12 **12 Minimalformel des gesamten Vorgangs**
-    
-7. **Strenge sozialwissenschaftliche Wenn-Dann-Hypothese**  
-    7.1 **1 Grundhypothese**  
-    7.2 **2 Informationshypothese**  
-    7.3 **3 Deutungshypothese**  
-    7.4 **4 Maßnahmenhypothese**  
-    7.5 **5 Selektionshypothese**  
-    7.6 **6 Wirkungshypothese**
-    
+
+4. **Ein finanzwissenschaftlich und volkswirtschaftlich strukturiertes Entscheidungsszenario**
+   4.1 **1 Ausgangslage**
+   4.2 **2 Die erste Stufe: Wahrnehmung der Zielabweichung**
+   4.3 **3 Die zweite Stufe: Informationsbeschaffung durch Berichtserstellung**
+   4.4 **4 Die dritte Stufe: Interpretation durch die Entscheidungsebene**
+   4.5 **5 Die vierte Stufe: Entwicklung von Handlungsoptionen**
+   4.6 **6 Die fünfte Stufe: Der ökonomische Wirkungsmechanismus**
+   4.7 **7 Die sechste Stufe: Zielkonflikte und Nebenfolgen**
+   4.8 **8 Der Gesamtprozess**
+   4.9 **9 Wissenschaftlich verdichtete Schlussformel**
+
+5. **Stufenmodell des beschriebenen Bankprozesses**
+   5.1 **1 Modellzweck**
+   5.2 **2 Gesamtlogik des Prozesses**
+   5.3 **3 Das Stufenmodell im Einzelnen**
+   5.4 **4 Prozesslogik in linearer Form**
+   5.4.1 **Stufe 1: Problemwahrnehmung**
+   5.4.2 **Stufe 2: Informationsauslösung**
+   5.4.3 **Stufe 3: Informationsproduktion**
+   5.4.4 **Stufe 4: Strategische Deutung**
+   5.4.5 **Stufe 5: Generierung von Alternativen**
+   5.4.6 **Stufe 6: Selektionsentscheidung**
+   5.4.7 **Stufe 7: Implementation**
+   5.4.8 **Stufe 8: Wirkungsrücklauf**
+   5.5 **5 Exakte Benennung der Entscheidungsübergänge**
+   5.6 **6 Kompakte wissenschaftliche Formel des Gesamtvorgangs**
+   5.7 **7 Analytischer Kernsatz**
+   5.8 **8 Präziser als Entscheidungskette**
+
+6. **Formalisiertes Schema des Bankprozesses**
+   6.1 **1 Symbolische Grundstruktur**
+   6.2 **2 Erste Entscheidungsstufe: Wahrnehmung der Abweichung**
+   6.3 **3 Zweite Entscheidungsstufe: Informationsbeschaffung**
+   6.4 **4 Dritte Entscheidungsstufe: Strategische Hypothesenbildung**
+   6.5 **5 Vierte Entscheidungsstufe: Bildung des Maßnahmenraums**
+   6.6 **6 Fünfte Entscheidungsstufe: Bewertung der Maßnahmen**
+   6.7 **7 Sechste Entscheidungsstufe: Auswahl der Maßnahme**
+   6.8 **8 Siebte Entscheidungsstufe: Umsetzung der Maßnahme**
+   6.9 **9 Achte Entscheidungsstufe: Wirkung auf die Kapitalmarkterwartung**
+   6.10 **10 Das Gesamtschema in kompakter Kettenform**
+   6.11 **11 Wissenschaftlich verdichtete Wenn-Dann-Version**
+   6.12 **12 Minimalformel des gesamten Vorgangs**
+
+7. **Strenge sozialwissenschaftliche Wenn-Dann-Hypothese**
+   7.1 **1 Grundhypothese**
+   7.2 **2 Informationshypothese**
+   7.3 **3 Deutungshypothese**
+   7.4 **4 Maßnahmenhypothese**
+   7.5 **5 Selektionshypothese**
+   7.6 **6 Wirkungshypothese**
+
 8. **Verdichtete Haupthypothese in einer einzigen Kette**
-    
-9. **Integrierte Information und virtuelle Netzarchitektur**  
-    _Zur Theorie des Bewusstheitsmaßes Φ und zu einem Proxmox-basierten Modell integrierter Information von der Viererstruktur bis zur allgemeinen n-Struktur_
-    
+
+9. **Integrierte Information und virtuelle Netzarchitektur**
+   *Zur Theorie des Bewusstheitsmaßes Φ und zu einem Proxmox-basierten Modell integrierter Information von der Viererstruktur bis zur allgemeinen n-Struktur*
+
 10. **Zusammenfassung**
-    
-11. **1 Einleitung**  
-    11.1 **1.1 Das Problem der naturwissenschaftlichen Bewusstseinsforschung**  
-    11.2 **1.2 Der Zugang der Integrated Information Theory**  
-    11.3 **1.3 Integrierte Information als irreduzible Gesamtstruktur**  
-    11.4 **1.4 Vom theoretischen Integrationsbegriff zum virtuellen Versuchssystem**  
+
+11. **1 Einleitung**
+    11.1 **1.1 Das Problem der naturwissenschaftlichen Bewusstseinsforschung**
+    11.2 **1.2 Der Zugang der Integrated Information Theory**
+    11.3 **1.3 Integrierte Information als irreduzible Gesamtstruktur**
+    11.4 **1.4 Vom theoretischen Integrationsbegriff zum virtuellen Versuchssystem**
     11.5 **1.5 Ziel und Aufbau des Aufsatzes**
-    
-12. **2 Grundbegriffe der Integrated Information Theory**  
-    12.1 **2.1 System, Knoten und Zustandsraum**  
-    12.2 **2.2 Kausale Relationen und Systemstruktur**  
-    12.3 **2.3 Information als Einschränkung möglicher Zustände**  
-    12.4 **2.4 Integrierte Information als nicht-additive Information**  
-    12.5 **2.5 Zerlegung eines Systems in disjunkte Teilmengen**  
-    12.6 **2.6 Informationsverlust bei Zerlegung**  
+
+12. **2 Grundbegriffe der Integrated Information Theory**
+    12.1 **2.1 System, Knoten und Zustandsraum**
+    12.2 **2.2 Kausale Relationen und Systemstruktur**
+    12.3 **2.3 Information als Einschränkung möglicher Zustände**
+    12.4 **2.4 Integrierte Information als nicht-additive Information**
+    12.5 **2.5 Zerlegung eines Systems in disjunkte Teilmengen**
+    12.6 **2.6 Informationsverlust bei Zerlegung**
     12.7 **2.7 Minimale Informationspartition und das Maß $\Phi$**
-    
-13. **3 Die methodische Rolle der Zerlegung**  
-    13.1 **3.1 Warum bloße Konnektivität noch keine Integration ist**  
-    13.2 **3.2 Der Vergleich zwischen vollständigem und zerlegtem System**  
-    13.3 **3.3 Strukturverlust als Maß systemischer Abhängigkeit**  
-    13.4 **3.4 Zerlegung als Prüfstein irreduzibler Kausalität**  
+
+13. **3 Die methodische Rolle der Zerlegung**
+    13.1 **3.1 Warum bloße Konnektivität noch keine Integration ist**
+    13.2 **3.2 Der Vergleich zwischen vollständigem und zerlegtem System**
+    13.3 **3.3 Strukturverlust als Maß systemischer Abhängigkeit**
+    13.4 **3.4 Zerlegung als Prüfstein irreduzibler Kausalität**
     13.5 **3.5 Die heuristische Bedeutung einfacher Beispiele**
-    
-14. **4 Anschauliche Modelle integrierter und schwach integrierter Systeme**  
-    14.1 **4.1 Die Band als Modell eines integrierten Systems**  
-    14.2 **4.2 Zerlegung einer differenzierten Bandstruktur**  
-    14.3 **4.3 Informationsverlust als Verlust von Koordination**  
-    14.4 **4.4 Kontrast zwischen differenzierter und uniformer Band**  
+
+14. **4 Anschauliche Modelle integrierter und schwach integrierter Systeme**
+    14.1 **4.1 Die Band als Modell eines integrierten Systems**
+    14.2 **4.2 Zerlegung einer differenzierten Bandstruktur**
+    14.3 **4.3 Informationsverlust als Verlust von Koordination**
+    14.4 **4.4 Kontrast zwischen differenzierter und uniformer Band**
     14.5 **4.5 Didaktische Reichweite und Grenzen der Analogie**
-    
-15. **5 Übergang von der allgemeinen IIT zur virtuellen Netzarchitektur**  
-    15.1 **5.1 Vom abstrakten Systembegriff zum technischen Versuchssystem**  
-    15.2 **5.2 Warum Proxmox als Laborumgebung gewählt wird**  
-    15.3 **5.3 Trennbarkeit, Rekonfiguration und kontrollierte Störung**  
-    15.4 **5.4 Die Differenz zwischen Infrastruktur und Kausalarchitektur**  
+
+15. **5 Übergang von der allgemeinen IIT zur virtuellen Netzarchitektur**
+    15.1 **5.1 Vom abstrakten Systembegriff zum technischen Versuchssystem**
+    15.2 **5.2 Warum Proxmox als Laborumgebung gewählt wird**
+    15.3 **5.3 Trennbarkeit, Rekonfiguration und kontrollierte Störung**
+    15.4 **5.4 Die Differenz zwischen Infrastruktur und Kausalarchitektur**
     15.5 **5.5 Das virtuelle Netzwerk als tononisch relevantes Versuchsfeld**
-    
-16. **6 Die Viererstruktur als elementare Grundform**  
-    16.1 **6.1 Die verbindliche Anordnung von $V1$ bis $V4$**  
-    16.2 **6.2 Die Zuordnung der Clients $C1$ bis $C4$**  
-    16.3 **6.3 Die Routerebene als quadratische Infrastruktur ohne Diagonalen**  
-    16.4 **6.4 Die Clientebene als vollständiger gerichteter Wirkgraph**  
-    16.5 **6.5 Die doppelte Architektur des Gesamtsystems**  
+
+16. **6 Die Viererstruktur als elementare Grundform**
+    16.1 **6.1 Die verbindliche Anordnung von $V1$ bis $V4$**
+    16.2 **6.2 Die Zuordnung der Clients $C1$ bis $C4$**
+    16.3 **6.3 Die Routerebene als quadratische Infrastruktur ohne Diagonalen**
+    16.4 **6.4 Die Clientebene als vollständiger gerichteter Wirkgraph**
+    16.5 **6.5 Die doppelte Architektur des Gesamtsystems**
     16.6 **6.6 Warum die Viererstruktur methodisch privilegiert ist**
-    
-17. **7 Die interne Zustandsarchitektur der Clients**  
-    17.1 **7.1 Auditiver und visueller Sensorzustand**  
-    17.2 **7.2 Das Selbstmodell des einzelnen Clients**  
-    17.3 **7.3 Fremdmodelle der anderen Clients**  
-    17.4 **7.4 Das Gesamtsystemmodell**  
-    17.5 **7.5 Erwartungserwartungen als rekursive Modellschicht**  
+
+17. **7 Die interne Zustandsarchitektur der Clients**
+    17.1 **7.1 Auditiver und visueller Sensorzustand**
+    17.2 **7.2 Das Selbstmodell des einzelnen Clients**
+    17.3 **7.3 Fremdmodelle der anderen Clients**
+    17.4 **7.4 Das Gesamtsystemmodell**
+    17.5 **7.5 Erwartungserwartungen als rekursive Modellschicht**
     17.6 **7.6 Der zusammengesetzte Zustandsvektor $X_i(t)$**
-    
-18. **8 Die technische Proxmox-Infrastruktur der Viererstruktur**  
-    18.1 **8.1 Das Managementnetz als externe Kontrollschicht**  
-    18.2 **8.2 Die vier Router-Interconnects $R12$, $R13$, $R24$ und $R34$**  
-    18.3 **8.3 Die lokalen Clientnetze $L1$ bis $L4$**  
-    18.4 **8.4 Schnittstellenverteilung auf Router und Clients**  
-    18.5 **8.5 Bridge-Architektur und ihre didaktischen Vorteile**  
+
+18. **8 Die technische Proxmox-Infrastruktur der Viererstruktur**
+    18.1 **8.1 Das Managementnetz als externe Kontrollschicht**
+    18.2 **8.2 Die vier Router-Interconnects $R12$, $R13$, $R24$ und $R34$**
+    18.3 **8.3 Die lokalen Clientnetze $L1$ bis $L4$**
+    18.4 **8.4 Schnittstellenverteilung auf Router und Clients**
+    18.5 **8.5 Bridge-Architektur und ihre didaktischen Vorteile**
     18.6 **8.6 Die spätere Rolle von VLAN und SDN bei wachsender Netzgröße**
-    
-19. **9 Mathematische Struktur der Viererstruktur**  
-    19.1 **9.1 Die Routermenge und ihre Kantenmenge**  
-    19.2 **9.2 Die Clientmenge und ihre gerichteten Wirkbeziehungen**  
-    19.3 **9.3 Makroebene und Feinebene des Systems**  
-    19.4 **9.4 Die Zahl möglicher bipartiter Zerlegungen auf Makroebene**  
-    19.5 **9.5 Die Zahl möglicher bipartiter Zerlegungen auf Feinebene**  
+
+19. **9 Mathematische Struktur der Viererstruktur**
+    19.1 **9.1 Die Routermenge und ihre Kantenmenge**
+    19.2 **9.2 Die Clientmenge und ihre gerichteten Wirkbeziehungen**
+    19.3 **9.3 Makroebene und Feinebene des Systems**
+    19.4 **9.4 Die Zahl möglicher bipartiter Zerlegungen auf Makroebene**
+    19.5 **9.5 Die Zahl möglicher bipartiter Zerlegungen auf Feinebene**
     19.6 **9.6 Die theoretische Bedeutung der Viererstruktur für die Integrationsfrage**
-    
-20. **10 Ausfall und Zerlegung als Strukturtest**  
-    20.1 **10.1 Der Begriff des Ausfalls im technischen und systemtheoretischen Sinn**  
-    20.2 **10.2 Topologischer Verlust und Verlust kausaler Reichweite**  
-    20.3 **10.3 Sensorischer Verlust lokaler Perspektiven**  
-    20.4 **10.4 Verlust von Fremdmodellen und Erwartungserwartungen**  
-    20.5 **10.5 Verlust von Kohärenz im Gesamtsystemmodell**  
+
+20. **10 Ausfall und Zerlegung als Strukturtest**
+    20.1 **10.1 Der Begriff des Ausfalls im technischen und systemtheoretischen Sinn**
+    20.2 **10.2 Topologischer Verlust und Verlust kausaler Reichweite**
+    20.3 **10.3 Sensorischer Verlust lokaler Perspektiven**
+    20.4 **10.4 Verlust von Fremdmodellen und Erwartungserwartungen**
+    20.5 **10.5 Verlust von Kohärenz im Gesamtsystemmodell**
     20.6 **10.6 Ausfall als Eingriff in die Integrationsstruktur des Ganzen**
-    
-21. **11 Exemplarische Verlustanalyse an der Viererstruktur**  
-    21.1 **11.1 Auswahl eines exemplarischen Ausfallfalls**  
-    21.2 **11.2 Der Ausfall von Knoten 3 als Beispiel**  
-    21.3 **11.3 Veränderung der Routertopologie**  
-    21.4 **11.4 Veränderung der gerichteten Clientrelationen**  
-    21.5 **11.5 Einbruch lokaler und globaler Modellkonsistenz**  
+
+21. **11 Exemplarische Verlustanalyse an der Viererstruktur**
+    21.1 **11.1 Auswahl eines exemplarischen Ausfallfalls**
+    21.2 **11.2 Der Ausfall von Knoten 3 als Beispiel**
+    21.3 **11.3 Veränderung der Routertopologie**
+    21.4 **11.4 Veränderung der gerichteten Clientrelationen**
+    21.5 **11.5 Einbruch lokaler und globaler Modellkonsistenz**
     21.6 **11.6 Rekonfiguration und mögliche Reintegration**
-    
-22. **12 Von der Viererstruktur zur Achterstruktur**  
-    22.1 **12.1 Warum die Achterstruktur mehr ist als eine Verdopplung**  
-    22.2 **12.2 Topologische Unterschiede zwischen Eck-, Rand- und Innenknoten**  
-    22.3 **12.3 Zunahme der Routerkanten und Clientrelationen**  
-    22.4 **12.4 Wachsende Komplexität möglicher Ausfallmuster**  
-    22.5 **12.5 Erste Grenzen vollständiger Partitionsanalyse**  
+
+22. **12 Von der Viererstruktur zur Achterstruktur**
+    22.1 **12.1 Warum die Achterstruktur mehr ist als eine Verdopplung**
+    22.2 **12.2 Topologische Unterschiede zwischen Eck-, Rand- und Innenknoten**
+    22.3 **12.3 Zunahme der Routerkanten und Clientrelationen**
+    22.4 **12.4 Wachsende Komplexität möglicher Ausfallmuster**
+    22.5 **12.5 Erste Grenzen vollständiger Partitionsanalyse**
     22.6 **12.6 Die Achterstruktur als Übergang zur allgemeinen Skalierung**
-    
-23. **13 Die allgemeine n-Struktur eines zweidimensionalen routerbasierten Modells**  
-    23.1 **13.1 Die allgemeine Gitterform mit $p$ Zeilen und $q$ Spalten**  
-    23.2 **13.2 $n = p \cdot q$ als Grundgleichung der Netzgröße**  
-    23.3 **13.3 Die Zahl der Routerkanten in der allgemeinen Struktur**  
-    23.4 **13.4 Die Zahl der gerichteten Clientrelationen**  
-    23.5 **13.5 Exponentielles Wachstum möglicher Partitionen**  
+
+23. **13 Die allgemeine n-Struktur eines zweidimensionalen routerbasierten Modells**
+    23.1 **13.1 Die allgemeine Gitterform mit $p$ Zeilen und $q$ Spalten**
+    23.2 **13.2 $n = p \cdot q$ als Grundgleichung der Netzgröße**
+    23.3 **13.3 Die Zahl der Routerkanten in der allgemeinen Struktur**
+    23.4 **13.4 Die Zahl der gerichteten Clientrelationen**
+    23.5 **13.5 Exponentielles Wachstum möglicher Partitionen**
     23.6 **13.6 Theoretische Konsequenzen der Skalierung**
-    
-24. **14 Das Verhältnis von Tononis $\Phi$ und dem experimentellen Maß $\Phi^*$**  
-    24.1 **14.1 Das tononische $\Phi$ als theoretisches Leitmaß**  
-    24.2 **14.2 Die praktische Schwierigkeit vollständiger $\Phi$-Berechnung**  
-    24.3 **14.3 Die Einführung eines experimentellen Integrationsmaßes**  
-    24.4 **14.4 Effektive Kausalvernetzung, Rekursionsgrad und Zustandsdifferenzierung**  
-    24.5 **14.5 Modellkonsistenz, globale Kohärenz und Fragmentierungsneigung**  
+
+24. **14 Das Verhältnis von Tononis $\Phi$ und dem experimentellen Maß $\Phi^*$**
+    24.1 **14.1 Das tononische $\Phi$ als theoretisches Leitmaß**
+    24.2 **14.2 Die praktische Schwierigkeit vollständiger $\Phi$-Berechnung**
+    24.3 **14.3 Die Einführung eines experimentellen Integrationsmaßes**
+    24.4 **14.4 Effektive Kausalvernetzung, Rekursionsgrad und Zustandsdifferenzierung**
+    24.5 **14.5 Modellkonsistenz, globale Kohärenz und Fragmentierungsneigung**
     24.6 **14.6 Die methodische Funktion von $\Phi^*$ im Gesamtzusammenhang**
-    
-25. **15 Wissenschaftlicher Ertrag und Grenzen des Modells**  
-    25.1 **15.1 Das virtuelle Netzwerk als Experimentalsystem, nicht als ontologische Behauptung**  
-    25.2 **15.2 Was das Modell über Integration tatsächlich zeigen kann**  
-    25.3 **15.3 Was das Modell noch nicht leisten kann**  
-    25.4 **15.4 Das Verhältnis von Simulation, Approximation und Theorie**  
+
+25. **15 Wissenschaftlicher Ertrag und Grenzen des Modells**
+    25.1 **15.1 Das virtuelle Netzwerk als Experimentalsystem, nicht als ontologische Behauptung**
+    25.2 **15.2 Was das Modell über Integration tatsächlich zeigen kann**
+    25.3 **15.3 Was das Modell noch nicht leisten kann**
+    25.4 **15.4 Das Verhältnis von Simulation, Approximation und Theorie**
     25.5 **15.5 Offene Probleme und weitere Entwicklungsmöglichkeiten**
-    
-26. **16 Schluss**  
-    26.1 **16.1 Zusammenfassung der begrifflichen Ergebnisse**  
-    26.2 **16.2 Zusammenfassung der architektonischen Ergebnisse**  
-    26.3 **16.3 Die Viererstruktur als elementare Grundfigur**  
-    26.4 **16.4 Die n-Struktur als theoretische Öffnung**  
+
+26. **16 Schluss**
+    26.1 **16.1 Zusammenfassung der begrifflichen Ergebnisse**
+    26.2 **16.2 Zusammenfassung der architektonischen Ergebnisse**
+    26.3 **16.3 Die Viererstruktur als elementare Grundfigur**
+    26.4 **16.4 Die n-Struktur als theoretische Öffnung**
     26.5 **16.5 Ausblick auf Simulation, Vergleich und experimentelle Weiterführung**
-    
+
 27. **Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen**
+
     27.1 **1 Die globale Dreiteilung des Gesamtmodells**
+
     27.2 **2 Das erste Modul: das Bewusstseinsmodul**
+
     27.3 **3 Das zweite Modul: das Wissensmodul**
+
     27.4 **4 Die zentrale Hypothese: Wissen wirkt auf das Bewusstseinsmaß $\Phi$ zurück**
+
     27.5 **5 Spezialisierung und Verallgemeinerung von Wissen als besondere Testfälle**
+
     27.6 **6 Das dritte Modul: der soziale Handlungsrahmen**
+
     27.7 **7 Das Bankbeispiel als konkreter sozialer Handlungsrahmen**
+
     27.8 **8 Prompt-Pipelining als operative Kopplung von Wissensmodul und Handlungsrahmen**
+
     27.9 **9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell**
+
     27.10 **10 Schlussformel**
+
     27.11 **11 Einbettung router- und client-basierter Bewusstseinssysteme in soziale Ist-Soll-Strukturen und externe Handlungskontexte**
+
     27.12 **12 Theorierückbindung und hypothesengeleitete Selbstprüfung als zwei Grundprinzipien des Prompt-Pipelining**
+
     27.13 **13 Formale Modellierung der Minimierung von Ist-Soll-Diskrepanzen durch datenbasierte Prüfung von Wenn-Dann-Hypothesen**
+
     27.14.1 **14.1 Grundidee des Modells**
+
     27.14.2 **14.2 Formale Beschreibung von Ist-Zustand und Soll-Zustand**
+
     27.14.3 **14.3 Definition der Ist-Soll-Diskrepanz**
+
     27.14.4 **14.4 Maßnahmenraum und Übergangsfunktion**
+
     27.14.5 **14.5 Formale Gestalt von Wenn-Dann-Hypothesen**
+
     27.14.6 **14.6 Daten als Grundlage der Hypothesenprüfung**
+
     27.14.7 **14.7 Statistische Prüfung von Hypothesen**
+
     27.14.8 **14.8 Auswahl relevanter Lösungswege**
+
     27.14.9 **14.9 Zweck-Mittel-Relationen als formale Relation**
+
     27.14.10 **14.10 Rekursive Schleife der Wissensverarbeitung**
+
     27.14.11 **12.11 Einfache Beispielrechnung**
+
     27.14.12 **12.12 Zusammenfassung der formalen Logik**
+
 
 ## **Einleitung**
 
