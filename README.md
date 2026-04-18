@@ -399,6 +399,12 @@ CEO und Aufsichtsrat interpretieren den Bericht nicht bloß deskriptiv, sondern 
 
 ### Stufe 5: Generierung von Alternativen
 
+![18](/Pics/18.png)
+
+![20](/Pics/20.png)
+
+![21](/Pics/21.png)
+
 Auf Basis dieser Hypothese wird ein Raum möglicher Handlungen gebildet. Die Organisation prüft nicht nur eine einzige Reaktion, sondern mehrere denkbare Maßnahmen. Erst dadurch wird aus einer Diagnose ein echter Entscheidungsprozess.
 
 ### Stufe 6: Selektionsentscheidung
@@ -406,7 +412,9 @@ Auf Basis dieser Hypothese wird ein Raum möglicher Handlungen gebildet. Die Org
 Die Leitungsebene wählt schließlich eine Maßnahme aus, die im Kern auf **Kostensenkung durch Strukturumbau** beruht. Beschlossen werden Filialabbau, Personalabbau, Reduktion der Öffnungszeiten und Ausbau digitaler Selbstbedienung.
 
 ### Stufe 7: Implementation
+
 ![19](/Pics/19.png)
+
 Der Beschluss wird organisatorisch umgesetzt. An diesem Punkt wechselt der Prozess von der Entscheidungslogik in die operative Realisierung. Die Maßnahme materialisiert sich in einer veränderten Unternehmensstruktur.
 
 ### Stufe 8: Wirkungsrücklauf
