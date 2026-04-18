@@ -200,36 +200,21 @@
     27.8 **8 Prompt-Pipelining als operative Kopplung von Wissensmodul und Handlungsrahmen**  
     27.9 **9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell**  
     27.10 **10 Schlussformel**
-    
-    XY. Einbettung router- und client-basierter Bewusstseinssysteme in soziale Ist-Soll-Strukturen und externe Handlungskontexte
-    
-    XY. Theorierückbindung und hypothesengeleitete Selbstprüfung als zwei Grundprinzipien des Prompt-Pipelining
-    
-    XY. Formale Modellierung der Minimierung von Ist-Soll-Diskrepanzen durch datenbasierte Prüfung von Wenn-Dann-Hypothesen
-    
-    12.1 Grundidee des Modells
-    
-    12.2 Formale Beschreibung von Ist-Zustand und Soll-Zustand
-    
-    12.3 Definition der Ist-Soll-Diskrepanz
-    
-    12.4 Maßnahmenraum und Übergangsfunktion
-    
-    12.5 Formale Gestalt von Wenn-Dann-Hypothesen
-    
-    12.6 Daten als Grundlage der Hypothesenprüfung
-    
-    12.7 Statistische Prüfung von Hypothesen
-    
-    12.8 Auswahl relevanter Lösungswege
-    
-    12.9 Zweck-Mittel-Relationen als formale Relation
-    
-    12.10 Rekursive Schleife der Wissensverarbeitung
-    
-    12.11 Einfache Beispielrechnung
-    
-    12.12 Zusammenfassung der formalen Logik
+    27.11 **11 Einbettung router- und client-basierter Bewusstseinssysteme in soziale Ist-Soll-Strukturen und externe Handlungskontexte**
+    27.12 **12 Theorierückbindung und hypothesengeleitete Selbstprüfung als zwei Grundprinzipien des Prompt-Pipelining**
+    27.13 **13 Formale Modellierung der Minimierung von Ist-Soll-Diskrepanzen durch datenbasierte Prüfung von Wenn-Dann-Hypothesen**
+    27.14.1 **14.1 Grundidee des Modells**
+    27.14.2 **14.2 Formale Beschreibung von Ist-Zustand und Soll-Zustand**
+    27.14.3 **14.3 Definition der Ist-Soll-Diskrepanz**
+    27.14.4 **14.4 Maßnahmenraum und Übergangsfunktion**
+    27.14.5 **14.5 Formale Gestalt von Wenn-Dann-Hypothesen**
+    27.14.6 **14.6 Daten als Grundlage der Hypothesenprüfung**
+    27.14.7 **14.7 Statistische Prüfung von Hypothesen**
+    27.14.8 **14.8 Auswahl relevanter Lösungswege**
+    27.14.9 **14.9 Zweck-Mittel-Relationen als formale Relation**
+    27.14.10 **14.10 Rekursive Schleife der Wissensverarbeitung**
+    27.14.11 **12.11 Einfache Beispielrechnung**
+    27.14.12 **12.12 Zusammenfassung der formalen Logik**
     
 
 ## **Einleitung**
