@@ -382,10 +382,11 @@ Die bloße Feststellung einer Abweichung reicht noch nicht aus, um eine struktur
 ### Stufe 3: Informationsproduktion
 
 ![11](/Pics/11.png)
+
 Der Quartalsbericht wird durch eine Kombination aus menschlicher Bedienung und KI-gestützter Textproduktion erzeugt. Der Mitarbeiter ist nicht mehr primär Autor des Berichts, sondern Operateur des Berichtssystems. Der Output dieser Stufe ist eine verdichtete betriebswirtschaftliche Lageinformation.
 
 ### Stufe 4: Strategische Deutung
-
+![12](/Pics/12.png)
 CEO und Aufsichtsrat interpretieren den Bericht nicht bloß deskriptiv, sondern hypothesenbildend. Sie deuten die Daten vor dem Hintergrund eines Markttrends, nämlich der zunehmenden Digitalisierung des Bankgeschäfts. Daraus entsteht die Annahme, dass die bestehende Filialstruktur teilweise überdimensioniert ist.
 
 ### Stufe 5: Generierung von Alternativen
