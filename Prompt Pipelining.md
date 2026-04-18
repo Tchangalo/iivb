@@ -19,35 +19,6 @@
 
 9. Wissenschaftliche und technische Aussagekraft der Illustration
 
-10. Einbettung router- und client-basierter Bewusstseinssysteme in soziale Ist-Soll-Strukturen und externe Handlungskontexte
-
-11. Theorierückbindung und hypothesengeleitete Selbstprüfung als zwei Grundprinzipien des Prompt-Pipelining
-
-12. Formale Modellierung der Minimierung von Ist-Soll-Diskrepanzen durch datenbasierte Prüfung von Wenn-Dann-Hypothesen
-
-12.1 Grundidee des Modells
-
-12.2 Formale Beschreibung von Ist-Zustand und Soll-Zustand
-
-12.3 Definition der Ist-Soll-Diskrepanz
-
-12.4 Maßnahmenraum und Übergangsfunktion
-
-12.5 Formale Gestalt von Wenn-Dann-Hypothesen
-
-12.6 Daten als Grundlage der Hypothesenprüfung
-
-12.7 Statistische Prüfung von Hypothesen
-
-12.8 Auswahl relevanter Lösungswege
-
-12.9 Zweck-Mittel-Relationen als formale Relation
-
-12.10 Rekursive Schleife der Wissensverarbeitung
-
-12.11 Einfache Beispielrechnung
-
-12.12 Zusammenfassung der formalen Logik
     
 # 1. Gesamtbeschreibung der Illustration
 
