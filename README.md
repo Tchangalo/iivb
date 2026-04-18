@@ -1128,7 +1128,7 @@ Je größer bei einer kapitalmarktorientierten Bank die Soll-Ist-Diskrepanz $D_t
 7 Das Bankbeispiel als konkreter sozialer Handlungsrahmen  
 8 Prompt-Pipelining als operative Kopplung von Wissensmodul und Handlungsrahmen  
 9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell  
-10 Schlussformel des Epilogs
+10 Schlussformel
 
 ## Zusammenfassung
 
