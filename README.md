@@ -232,7 +232,7 @@ Das dritte Modul ist der **soziale Handlungsrahmen**. Er umfasst die soziale ode
 ![Gesamt4](/Pics/GesamtschaubildViererstruktur.png)
 
 
-![Gesamt8](/Pis/GesamtschaubildAchterstruktur.png)
+![Gesamt8](/Pics/GesamtschaubildAchterstruktur.png)
 
 ### 1 Ausgangslage
 Eine Bank stellt fest, dass sich ihr Aktienkurs schwächer entwickelt als von den Entscheidungsträgern erwartet. Aus betriebswirtschaftlicher und finanzwissenschaftlicher Sicht liegt damit eine Abweichung zwischen einem angestrebten Zielwert und der tatsächlich beobachteten Entwicklung vor. Diese Abweichung kann als Soll-Ist-Diskrepanz beschrieben werden. Der Soll-Zustand besteht in der Erwartung eines stärkeren Kursanstiegs. Der Ist-Zustand besteht in der tatsächlich schwächeren Marktentwicklung der Aktie.
