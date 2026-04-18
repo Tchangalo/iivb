@@ -1,7 +1,6 @@
 # Konzeption eines Systems inferenzgeleitet interagierender verteilter Bewutßtseinseinheiten (IIVB)
 
 #### Inhalt:
-
 1. **Einleitung**
 
 2. **Zielsetzung**
@@ -9,60 +8,60 @@
 3. **Die globale Dreiteilung des Gesamtmodells**
 
 4. **Ein finanzwissenschaftlich und volkswirtschaftlich strukturiertes Entscheidungsszenario**
-   4.1 **1 Ausgangslage**
-   4.2 **2 Die erste Stufe: Wahrnehmung der Zielabweichung**
-   4.3 **3 Die zweite Stufe: Informationsbeschaffung durch Berichtserstellung**
-   4.4 **4 Die dritte Stufe: Interpretation durch die Entscheidungsebene**
-   4.5 **5 Die vierte Stufe: Entwicklung von Handlungsoptionen**
-   4.6 **6 Die fünfte Stufe: Der ökonomische Wirkungsmechanismus**
-   4.7 **7 Die sechste Stufe: Zielkonflikte und Nebenfolgen**
-   4.8 **8 Der Gesamtprozess**
-   4.9 **9 Wissenschaftlich verdichtete Schlussformel**
+    4.1 **1 Ausgangslage**
+    4.2 **2 Die erste Stufe: Wahrnehmung der Zielabweichung**
+    4.3 **3 Die zweite Stufe: Informationsbeschaffung durch Berichtserstellung**
+    4.4 **4 Die dritte Stufe: Interpretation durch die Entscheidungsebene**
+    4.5 **5 Die vierte Stufe: Entwicklung von Handlungsoptionen**
+    4.6 **6 Die fünfte Stufe: Der ökonomische Wirkungsmechanismus**
+    4.7 **7 Die sechste Stufe: Zielkonflikte und Nebenfolgen**
+    4.8 **8 Der Gesamtprozess**
+    4.9 **9 Wissenschaftlich verdichtete Schlussformel**
 
 5. **Stufenmodell des beschriebenen Bankprozesses**
-   5.1 **1 Modellzweck**
-   5.2 **2 Gesamtlogik des Prozesses**
-   5.3 **3 Das Stufenmodell im Einzelnen**
-   5.4 **4 Prozesslogik in linearer Form**
-   5.4.1 **Stufe 1: Problemwahrnehmung**
-   5.4.2 **Stufe 2: Informationsauslösung**
-   5.4.3 **Stufe 3: Informationsproduktion**
-   5.4.4 **Stufe 4: Strategische Deutung**
-   5.4.5 **Stufe 5: Generierung von Alternativen**
-   5.4.6 **Stufe 6: Selektionsentscheidung**
-   5.4.7 **Stufe 7: Implementation**
-   5.4.8 **Stufe 8: Wirkungsrücklauf**
-   5.5 **5 Exakte Benennung der Entscheidungsübergänge**
-   5.6 **6 Kompakte wissenschaftliche Formel des Gesamtvorgangs**
-   5.7 **7 Analytischer Kernsatz**
-   5.8 **8 Präziser als Entscheidungskette**
+    5.1 **1 Modellzweck**
+    5.2 **2 Gesamtlogik des Prozesses**
+    5.3 **3 Das Stufenmodell im Einzelnen**
+    5.4 **4 Prozesslogik in linearer Form**
+    5.4.1 **Stufe 1: Problemwahrnehmung**
+    5.4.2 **Stufe 2: Informationsauslösung**
+    5.4.3 **Stufe 3: Informationsproduktion**
+    5.4.4 **Stufe 4: Strategische Deutung**
+    5.4.5 **Stufe 5: Generierung von Alternativen**
+    5.4.6 **Stufe 6: Selektionsentscheidung**
+    5.4.7 **Stufe 7: Implementation**
+    5.4.8 **Stufe 8: Wirkungsrücklauf**
+    5.5 **5 Exakte Benennung der Entscheidungsübergänge**
+    5.6 **6 Kompakte wissenschaftliche Formel des Gesamtvorgangs**
+    5.7 **7 Analytischer Kernsatz**
+    5.8 **8 Präziser als Entscheidungskette**
 
 6. **Formalisiertes Schema des Bankprozesses**
-   6.1 **1 Symbolische Grundstruktur**
-   6.2 **2 Erste Entscheidungsstufe: Wahrnehmung der Abweichung**
-   6.3 **3 Zweite Entscheidungsstufe: Informationsbeschaffung**
-   6.4 **4 Dritte Entscheidungsstufe: Strategische Hypothesenbildung**
-   6.5 **5 Vierte Entscheidungsstufe: Bildung des Maßnahmenraums**
-   6.6 **6 Fünfte Entscheidungsstufe: Bewertung der Maßnahmen**
-   6.7 **7 Sechste Entscheidungsstufe: Auswahl der Maßnahme**
-   6.8 **8 Siebte Entscheidungsstufe: Umsetzung der Maßnahme**
-   6.9 **9 Achte Entscheidungsstufe: Wirkung auf die Kapitalmarkterwartung**
-   6.10 **10 Das Gesamtschema in kompakter Kettenform**
-   6.11 **11 Wissenschaftlich verdichtete Wenn-Dann-Version**
-   6.12 **12 Minimalformel des gesamten Vorgangs**
+    6.1 **1 Symbolische Grundstruktur**
+    6.2 **2 Erste Entscheidungsstufe: Wahrnehmung der Abweichung**
+    6.3 **3 Zweite Entscheidungsstufe: Informationsbeschaffung**
+    6.4 **4 Dritte Entscheidungsstufe: Strategische Hypothesenbildung**
+    6.5 **5 Vierte Entscheidungsstufe: Bildung des Maßnahmenraums**
+    6.6 **6 Fünfte Entscheidungsstufe: Bewertung der Maßnahmen**
+    6.7 **7 Sechste Entscheidungsstufe: Auswahl der Maßnahme**
+    6.8 **8 Siebte Entscheidungsstufe: Umsetzung der Maßnahme**
+    6.9 **9 Achte Entscheidungsstufe: Wirkung auf die Kapitalmarkterwartung**
+    6.10 **10 Das Gesamtschema in kompakter Kettenform**
+    6.11 **11 Wissenschaftlich verdichtete Wenn-Dann-Version**
+    6.12 **12 Minimalformel des gesamten Vorgangs**
 
 7. **Strenge sozialwissenschaftliche Wenn-Dann-Hypothese**
-   7.1 **1 Grundhypothese**
-   7.2 **2 Informationshypothese**
-   7.3 **3 Deutungshypothese**
-   7.4 **4 Maßnahmenhypothese**
-   7.5 **5 Selektionshypothese**
-   7.6 **6 Wirkungshypothese**
+    7.1 **1 Grundhypothese**
+    7.2 **2 Informationshypothese**
+    7.3 **3 Deutungshypothese**
+    7.4 **4 Maßnahmenhypothese**
+    7.5 **5 Selektionshypothese**
+    7.6 **6 Wirkungshypothese**
 
 8. **Verdichtete Haupthypothese in einer einzigen Kette**
 
 9. **Integrierte Information und virtuelle Netzarchitektur**
-   *Zur Theorie des Bewusstheitsmaßes Φ und zu einem Proxmox-basierten Modell integrierter Information von der Viererstruktur bis zur allgemeinen n-Struktur*
+    *Zur Theorie des Bewusstheitsmaßes Φ und zu einem Proxmox-basierten Modell integrierter Information von der Viererstruktur bis zur allgemeinen n-Struktur*
 
 10. **Zusammenfassung**
 
@@ -190,55 +189,30 @@
     26.5 **16.5 Ausblick auf Simulation, Vergleich und experimentelle Weiterführung**
 
 27. **Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen**
-
     27.1 **1 Die globale Dreiteilung des Gesamtmodells**
-
     27.2 **2 Das erste Modul: das Bewusstseinsmodul**
-
     27.3 **3 Das zweite Modul: das Wissensmodul**
-
     27.4 **4 Die zentrale Hypothese: Wissen wirkt auf das Bewusstseinsmaß $\Phi$ zurück**
-
     27.5 **5 Spezialisierung und Verallgemeinerung von Wissen als besondere Testfälle**
-
     27.6 **6 Das dritte Modul: der soziale Handlungsrahmen**
-
     27.7 **7 Das Bankbeispiel als konkreter sozialer Handlungsrahmen**
-
     27.8 **8 Prompt-Pipelining als operative Kopplung von Wissensmodul und Handlungsrahmen**
-
     27.9 **9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell**
-
     27.10 **10 Schlussformel**
-
     27.11 **11 Einbettung router- und client-basierter Bewusstseinssysteme in soziale Ist-Soll-Strukturen und externe Handlungskontexte**
-
     27.12 **12 Theorierückbindung und hypothesengeleitete Selbstprüfung als zwei Grundprinzipien des Prompt-Pipelining**
-
     27.13 **13 Formale Modellierung der Minimierung von Ist-Soll-Diskrepanzen durch datenbasierte Prüfung von Wenn-Dann-Hypothesen**
-
     27.14.1 **14.1 Grundidee des Modells**
-
     27.14.2 **14.2 Formale Beschreibung von Ist-Zustand und Soll-Zustand**
-
     27.14.3 **14.3 Definition der Ist-Soll-Diskrepanz**
-
     27.14.4 **14.4 Maßnahmenraum und Übergangsfunktion**
-
     27.14.5 **14.5 Formale Gestalt von Wenn-Dann-Hypothesen**
-
     27.14.6 **14.6 Daten als Grundlage der Hypothesenprüfung**
-
     27.14.7 **14.7 Statistische Prüfung von Hypothesen**
-
     27.14.8 **14.8 Auswahl relevanter Lösungswege**
-
     27.14.9 **14.9 Zweck-Mittel-Relationen als formale Relation**
-
     27.14.10 **14.10 Rekursive Schleife der Wissensverarbeitung**
-
     27.14.11 **12.11 Einfache Beispielrechnung**
-
     27.14.12 **12.12 Zusammenfassung der formalen Logik**
 
 
