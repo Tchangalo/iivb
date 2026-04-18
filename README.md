@@ -189,31 +189,56 @@
     26.4 **16.4 Die n-Struktur als theoretische Öffnung**  
     26.5 **16.5 Ausblick auf Simulation, Vergleich und experimentelle Weiterführung**
     
-27. **Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen**  
-    27.1 **1 Die globale Dreiteilung des Gesamtmodells**  
-    27.2 **2 Das erste Modul: das Bewusstseinsmodul**  
-    27.3 **3 Das zweite Modul: das Wissensmodul**  
-    27.4 **4 Die zentrale Hypothese: Wissen wirkt auf das Bewusstseinsmaß $\Phi$ zurück**  
-    27.5 **5 Spezialisierung und Verallgemeinerung von Wissen als besondere Testfälle**  
-    27.6 **6 Das dritte Modul: der soziale Handlungsrahmen**  
-    27.7 **7 Das Bankbeispiel als konkreter sozialer Handlungsrahmen**  
-    27.8 **8 Prompt-Pipelining als operative Kopplung von Wissensmodul und Handlungsrahmen**  
-    27.9 **9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell**  
+27. **Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen**
+28. 
+    27.1 **1 Die globale Dreiteilung des Gesamtmodells**
+    
+    27.2 **2 Das erste Modul: das Bewusstseinsmodul**
+    
+    27.3 **3 Das zweite Modul: das Wissensmodul**
+    
+    27.4 **4 Die zentrale Hypothese: Wissen wirkt auf das Bewusstseinsmaß $\Phi$ zurück**
+    
+    27.5 **5 Spezialisierung und Verallgemeinerung von Wissen als besondere Testfälle**
+    
+    27.6 **6 Das dritte Modul: der soziale Handlungsrahmen**
+    
+    27.7 **7 Das Bankbeispiel als konkreter sozialer Handlungsrahmen**
+    
+    27.8 **8 Prompt-Pipelining als operative Kopplung von Wissensmodul und Handlungsrahmen**
+    
+    27.9 **9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell**
+    
     27.10 **10 Schlussformel**
+    
     27.11 **11 Einbettung router- und client-basierter Bewusstseinssysteme in soziale Ist-Soll-Strukturen und externe Handlungskontexte**
+    
     27.12 **12 Theorierückbindung und hypothesengeleitete Selbstprüfung als zwei Grundprinzipien des Prompt-Pipelining**
+    
     27.13 **13 Formale Modellierung der Minimierung von Ist-Soll-Diskrepanzen durch datenbasierte Prüfung von Wenn-Dann-Hypothesen**
+    
     27.14.1 **14.1 Grundidee des Modells**
+    
     27.14.2 **14.2 Formale Beschreibung von Ist-Zustand und Soll-Zustand**
+    
     27.14.3 **14.3 Definition der Ist-Soll-Diskrepanz**
+    
     27.14.4 **14.4 Maßnahmenraum und Übergangsfunktion**
+    
     27.14.5 **14.5 Formale Gestalt von Wenn-Dann-Hypothesen**
+    
     27.14.6 **14.6 Daten als Grundlage der Hypothesenprüfung**
+    
     27.14.7 **14.7 Statistische Prüfung von Hypothesen**
+    
     27.14.8 **14.8 Auswahl relevanter Lösungswege**
+    
     27.14.9 **14.9 Zweck-Mittel-Relationen als formale Relation**
+    
     27.14.10 **14.10 Rekursive Schleife der Wissensverarbeitung**
+    
     27.14.11 **12.11 Einfache Beispielrechnung**
+    
     27.14.12 **12.12 Zusammenfassung der formalen Logik**
     
 
