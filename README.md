@@ -3772,7 +3772,7 @@ Das heißt: Was auf der Bankebene als einzelner Knoten erscheint, ist auf der Su
 Man kann das auch als Kompositionsregel schreiben:
 
 $$  
-\mathcal B=\bigl{\mathcal S^{(1)},\mathcal S^{(2)},\dots,\mathcal S^{(8)}\bigr}.  
+\mathcal B=\bigl\{\mathcal S^{(1)},\mathcal S^{(2)},\dots,\mathcal S^{(8)}\bigr\}.  
 $$
 
 Dann ist die Bank ein System, dessen Elemente selbst wieder Systeme sind.
