@@ -189,13 +189,13 @@
     26.4 **16.4 Die n-Struktur als theoretische Öffnung**  
     26.5 **16.5 Ausblick auf Simulation, Vergleich und experimentelle Weiterführung**
     
-27. **Anhang
+Anhang
 
-28. 1 Einbettung router- und client-basierter Bewusstseinssysteme in soziale Ist-Soll-Strukturen und externe Handlungskontexte
+27. 1 Einbettung router- und client-basierter Bewusstseinssysteme in soziale Ist-Soll-Strukturen und externe Handlungskontexte
     
-29. 2 Theorierückbindung und hypothesengeleitete Selbstprüfung als zwei Grundprinzipien des Prompt-Pipelining
+28. 2 Theorierückbindung und hypothesengeleitete Selbstprüfung als zwei Grundprinzipien des Prompt-Pipelining
     
-30. 3 Formale Modellierung der Minimierung von Ist-Soll-Diskrepanzen durch datenbasierte Prüfung von Wenn-Dann-Hypothesen
+29. 3 Formale Modellierung der Minimierung von Ist-Soll-Diskrepanzen durch datenbasierte Prüfung von Wenn-Dann-Hypothesen
     
     3.1 Grundidee des Modells
     
@@ -221,7 +221,7 @@
     
     3.12 Zusammenfassung der formalen Logik
     
-Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen
+30. Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen
 
 1 Die globale Dreiteilung des Gesamtmodells
 
@@ -244,7 +244,7 @@ Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wiss
 10 Schlussformel
 
 
-Anhang II: Kollektive inferenziell interagierender verteilter Bewusstseinseinheiten
+31. Anhang II: Kollektive inferenziell interagierender verteilter Bewusstseinseinheiten
 
 1 Grundintuition
 
