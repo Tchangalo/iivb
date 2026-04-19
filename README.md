@@ -221,8 +221,7 @@
     
     3.12 Zusammenfassung der formalen Logik
     
- Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen 
- 
+ Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen
     1 Die globale Dreiteilung des Gesamtmodells
     2 Das erste Modul: das Bewusstseinsmodul
     3 Das zweite Modul: das Wissensmodul 
