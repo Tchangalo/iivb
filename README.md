@@ -3690,6 +3690,8 @@ Diese Formel bringt den systematischen Kern des Epilogs auf den Punkt. Soziale P
 
 ### Anhang II: Kollektive inferenziell interagierender verteilter Bewusstseinseinheiten
 
+![PHIAcherSubjekt](Pics/PHIAchterSubjekt.png)
+
 ![PHIAcher](Pics/PHIAchter.png)
 
 ## 1 Grundintuition
