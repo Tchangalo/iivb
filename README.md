@@ -222,16 +222,16 @@
     3.12 Zusammenfassung der formalen Logik
     
 Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen  
-    27.1 **1 Die globale Dreiteilung des Gesamtmodells**  
-    27.2 **2 Das erste Modul: das Bewusstseinsmodul**  
-    27.3 **3 Das zweite Modul: das Wissensmodul**  
-    27.4 **4 Die zentrale Hypothese: Wissen wirkt auf das Bewusstseinsmaß $\Phi$ zurück**  
-    27.5 **5 Spezialisierung und Verallgemeinerung von Wissen als besondere Testfälle**  
-    27.6 **6 Das dritte Modul: der soziale Handlungsrahmen**  
-    27.7 **7 Das Bankbeispiel als konkreter sozialer Handlungsrahmen**  
-    27.8 **8 Prompt-Pipelining als operative Kopplung von Wissensmodul und Handlungsrahmen**  
-    27.9 **9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell**  
-    27.10 **10 Schlussformel**
+    1 Die globale Dreiteilung des Gesamtmodells
+    2 Das erste Modul: das Bewusstseinsmodul
+    3 Das zweite Modul: das Wissensmodul 
+    4 Die zentrale Hypothese: Wissen wirkt auf das Bewusstseinsmaß $\Phi$ zurück 
+    5 Spezialisierung und Verallgemeinerung von Wissen als besondere Testfälle  
+    6 Das dritte Modul: der soziale Handlungsrahmen 
+    7 Das Bankbeispiel als konkreter sozialer Handlungsrahmen 
+    8 Prompt-Pipelining als operative Kopplung von Wissensmodul und Handlungsrahmen 
+    9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell  
+    10 Schlussformel
 
 ## Anhang II: Kollektive inferenziell interagierender verteilter Bewusstseinseinheiten
 
