@@ -221,7 +221,7 @@
     
     3.12 Zusammenfassung der formalen Logik
     
- **Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen**  
+Epilog: Drei Module der verteilten Bewusstseinseinheit und ihre Kopplung an Wissen und sozialen Handlungsrahmen  
     27.1 **1 Die globale Dreiteilung des Gesamtmodells**  
     27.2 **2 Das erste Modul: das Bewusstseinsmodul**  
     27.3 **3 Das zweite Modul: das Wissensmodul**  
@@ -233,7 +233,19 @@
     27.9 **9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell**  
     27.10 **10 Schlussformel**
 
-## **Anhang II:**
+Anhang II: Kollektive inferenziell interagierender verteilter Bewusstseinseinheiten
+1 Grundintuition
+2 Formale Grundstruktur
+3 Der Zustand eines einzelnen Subjekts innerhalb der Bank
+4 Mikroebene und Makroebene
+  4.1 Mikroebene
+  4.2 Makroebene
+5 Was an dieser Hierarchie das Entscheidende ist
+6 Die Kopplung zwischen den Subjekten auf Bankebene
+7 Die Soll-Ist-Diskrepanz als makrosozialer Taktgeber
+8 Die Bank als Netz von Subjekten und die Subjekte als Netze von Modulen
+9 Allgemeinverständlich gesagt
+10 Der präziseste Kurzsatz
 
 
 
