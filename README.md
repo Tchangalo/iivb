@@ -3648,7 +3648,7 @@ $$
 
 Diese Formel bringt den systematischen Kern des Epilogs auf den Punkt. Soziale Problemlagen erzeugen Soll-Ist-Diskrepanzen. Diese Diskrepanzen werden über Prompt-Pipelining in Wissensänderungen überführt. Wissensänderungen verändern die Zustände des Bewusstseinsmoduls. Das Bewusstseinsmodul bildet auf dieser Grundlage neue Wenn-Dann-Hypothesen, prüft sie datenbasiert und selektiert Maßnahmen, die eine Reduktion der Diskrepanz erwarten lassen. Der eigentliche Ertrag der Dreiteilung liegt daher in der Einsicht, dass Bewusstseinseinheit, Wissensdynamik und sozialer Handlungsrahmen keine getrennten Sphären sind, sondern drei funktional verschiedene, aber rekursiv verschränkte Module eines einzigen inferenzgeleiteten Gesamtzusammenhangs.
 
-### **Anhang: Kollektive inferenziell interagierender verteilter Bewusstseinseinheiten
+### Anhang: Kollektive inferenziell interagierender verteilter Bewusstseinseinheiten
 
 ![PHIAcher](/Pics/PHIAchter.png)
 
