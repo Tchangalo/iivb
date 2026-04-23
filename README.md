@@ -1,6 +1,6 @@
 # Konzeption eines Systems inferenzgeleitet interagierender verteilter Bewutßtseinseinheiten (IIVB)
 
-#### Inhalt:
+### Inhalt:
 
 **Einleitung**
 
