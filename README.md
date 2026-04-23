@@ -2,11 +2,6 @@
 
 #### Inhalt:
 
-Ja, stimmt. Alles klein war Kokolores. Hier ist es mit korrekter Groß- und Kleinschreibung, ohne Fettdruck und ohne Rauten davor.
-
-Konzeption eines Systems inferenzgeleitet interagierender verteilter Bewutßtseinseinheiten (IIVB)  
-Inhalt:
-
 Einleitung
 
 Zielsetzung
