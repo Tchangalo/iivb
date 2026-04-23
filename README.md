@@ -206,6 +206,7 @@ Zusammenfassung
 8 Prompt-Pipelining als operative Kopplung von Wissensmodul und Handlungsrahmen  
 9 Hypothesenbildung, Hypothesenprüfung und Maßnahmenwahl im Drei-Modul-Modell  
 10 Schlussformel
+
 **Anhang I**
 1. Einbettung router- und client-basierter Bewusstseinssysteme in soziale Ist-Soll-Strukturen und externe Handlungskontexte
 2. Theorierückbindung und hypothesengeleitete Selbstprüfung als zwei Grundprinzipien des Prompt-Pipelining
