@@ -8,7 +8,8 @@
 
 **Die globale Dreiteilung des Gesamtmodells**
 
-**Ein finanzwissenschaftlich und volkswirtschaftlich strukturiertes Entscheidungsszenario** 
+**Ein finanzwissenschaftlich und volkswirtschaftlich strukturiertes Entscheidungsszenario**
+
 1 Ausgangslage  
 2 Die erste Stufe: Wahrnehmung der Zielabweichung  
 3 Die zweite Stufe: Informationsbeschaffung durch Berichtserstellung  
@@ -20,6 +21,7 @@
 9 Wissenschaftlich verdichtete Schlussformel
 
 **Stufenmodell des beschriebenen Bankprozesses**
+
 1 Modellzweck  
 2 Gesamtlogik des Prozesses  
 3 Das Stufenmodell im Einzelnen  
@@ -38,6 +40,7 @@ Stufe 8: Wirkungsrücklauf
 8 Präziser als Entscheidungskette
 
 **Formalisiertes Schema des Bankprozesses**
+
 1 Symbolische Grundstruktur  
 2 Erste Entscheidungsstufe: Wahrnehmung der Abweichung  
 3 Zweite Entscheidungsstufe: Informationsbeschaffung  
