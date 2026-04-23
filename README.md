@@ -2,11 +2,11 @@
 
 #### Inhalt:
 
-**Einleitung
+**Einleitung**
 
-**Zielsetzung
+**Zielsetzung**
 
-**Die globale Dreiteilung des Gesamtmodells
+**Die globale Dreiteilung des Gesamtmodells**
 
 **Ein finanzwissenschaftlich und volkswirtschaftlich strukturiertes Entscheidungsszenario** 
 1 Ausgangslage  
